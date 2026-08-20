@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語是用來形容「水波或聲音振動起伏」的樣子？",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 2,
+    "explanation": "蕩漾指振動起伏，多用於指水波或聲音。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「遠山的倒影，（  ）在碧綠的湖水中。」括號中應填入哪一個詞語最適當？",
+    "options": ["反應", "反射", "反映", "反省"],
+    "answer": 2,
+    "explanation": "反映有「倒反映現」之意，適合描述湖中倒影。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列詞語與釋義的配對，何者正確？",
+    "options": [
+      "意旨：意思看法",
+      "意趣：意思趣味",
+      "意見：意義宗旨",
+      "意圖：經驗閱歷"
+    ],
+    "answer": 1,
+    "explanation": "意趣指意思趣味；意旨指意義宗旨；意見指意思看法。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "形容一個人待人仁厚、熱心，可以用下列哪一個成語？",
+    "options": ["古道熱腸", "淋漓盡致", "化腐朽為神奇", "堅定不移"],
+    "answer": 0,
+    "explanation": "古道熱腸形容待人仁厚、熱心。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「這本小說將人性刻劃得（  ）。」括號中應填入哪一個詞語？",
+    "options": ["圓融", "淋漓盡致", "神奇", "難得"],
+    "answer": 1,
+    "explanation": "淋漓盡致形容表達得暢達詳盡。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "關於「麗」字輩詞語的辨析，下列敘述何者正確？",
+    "options": [
+      "華麗：形容清秀美麗",
+      "秀麗：形容雄偉華麗",
+      "俏麗：形容容貌美好體態輕盈",
+      "壯麗：形容華美豔麗"
+    ],
+    "answer": 2,
+    "explanation": "俏麗指容貌美好體態輕盈；秀麗指清秀；壯麗指雄偉。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語是指「人能服從內在良心的規律，並能自我約束行為」？",
+    "options": ["自負", "自律", "自責", "自滿"],
+    "answer": 1,
+    "explanation": "自律是指服從良心規律並自我約束。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「他閱歷豐富，做事純熟精練。」我們可以用哪一個詞語來形容他？",
+    "options": ["老練", "神奇", "經歷", "反映"],
+    "answer": 0,
+    "explanation": "老練指閱歷豐富，做事純熟精練。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「這座森林公園環境（  ），是避暑的好去處。」括號中最適當的詞語是？",
+    "options": ["幽會", "幽靜", "動盪", "反應"],
+    "answer": 1,
+    "explanation": "幽靜指幽雅清靜，適合形容森林環境。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「簡直」這個詞語在句子中通常有什麼作用？",
+    "options": [
+      "表示對下級意見的反映",
+      "表示平均分配",
+      "用於誇大或加強其程度",
+      "表示男女間秘密約會"
+    ],
+    "answer": 2,
+    "explanation": "簡直意為幾乎、實在，常用於誇大或加強程度。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "月夜裡，划一艘小船，在波光（  ）中輕滑過湖面。",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 2,
+    "explanation": "蕩漾指水波振動起伏的樣子。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "北韓不聽美國的勸告，一意孤行的要發展核武，造成世界（  ）不安。",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 0,
+    "explanation": "動盪指搖晃不穩定，常用於形容局勢。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他在學校闖了禍，怕回家被罵，就在外面四處（  ），不敢回家。",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 1,
+    "explanation": "遊蕩指閒遊而不務正業，或在外面無目的地徘徊。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "遠山的倒影，（  ）在碧綠的湖水中。",
+    "options": ["反應", "反射", "反映", "反省"],
+    "answer": 2,
+    "explanation": "反映有倒反映現的意思。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他利用鏡面（  ）光線的原理，對路上行人惡作劇。",
+    "options": ["反應", "反射", "反映", "反省"],
+    "answer": 1,
+    "explanation": "反射指聲波或光線遇到阻礙後改變方向射回原介質的現象。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "體型越大的恐龍動作越遲緩，遇到危險時，（  ）總是慢半拍。",
+    "options": ["反應", "反射", "反映", "反省"],
+    "answer": 0,
+    "explanation": "反應指由刺激所引起的一切活動。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他的文章以古諷今，（  ）橫生。",
+    "options": ["意旨", "意見", "意趣", "意圖"],
+    "answer": 2,
+    "explanation": "意趣橫生形容文章或事物非常有意思、充滿趣味。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「解鈴還需繫鈴人」的（  ）是：比喻誰做的事出了問題，仍須由誰去解決。",
+    "options": ["意旨", "意見", "意趣", "意圖"],
+    "answer": 0,
+    "explanation": "意旨指意義或宗旨。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「虛懷若谷」形容為人謙虛，能接納他人的（  ）。",
+    "options": ["意旨", "意見", "意趣", "意圖"],
+    "answer": 1,
+    "explanation": "意見指對事情的意思或看法。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他為人（  ），與他共事一定要小心呀！",
+    "options": ["陰影", "陰險", "爽朗", "陰暗"],
+    "answer": 1,
+    "explanation": "陰險形容為人虛偽且奸險。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "童年那一段坎坷的（  ），是促成他更奮發上進的動力。",
+    "options": ["經歷", "精力", "經曆", "經驗"],
+    "answer": 0,
+    "explanation": "經歷指親身見過、做過的事，即經驗與閱歷。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "他態度（  ），不為威武所屈。",
+    "options": ["間定", "監定", "堅定", "堅貞"],
+    "answer": 2,
+    "explanation": "堅定指意志強毅不動搖。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "這朵假花做得維妙維肖，（  ）和真的沒有兩樣。",
+    "options": ["簡單", "簡直", "簡質", "簡要"],
+    "answer": 1,
+    "explanation": "簡直意為幾乎、實在，常用於誇大或加強程度。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "這幅畫（  ）東方與西方的繪畫技巧，呈現一種新的氣息。",
+    "options": ["融合", "融和", "圓融", "混合"],
+    "answer": 0,
+    "explanation": "融合指融化匯合，合成一體。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "他們靠著書信、電話維繫了多年的（  ）。",
+    "options": ["友愛", "友宜", "友誼", "友善"],
+    "answer": 2,
+    "explanation": "友誼指朋友間的交情。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "我非常（  ）住在雲林的奶奶。",
+    "options": ["思想", "想法", "想念", "想像"],
+    "answer": 2,
+    "explanation": "想念指思念、懷念。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "這裡的風景非常（  ），是別的地方看不到的。",
+    "options": ["奇怪", "神奇", "奇特", "奇妙"],
+    "answer": 2,
+    "explanation": "奇特指奇異特殊，與眾不同。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "大雨過後，天空出現一道（  ），漂亮極了！",
+    "options": ["霓虹", "彩虹", "料理", "光芒"],
+    "answer": 1,
+    "explanation": "彩虹是雨後大氣中水滴折射陽光形成的彩色圓弧。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "每個人都有責任發揚臺灣固有優良的（  ）。",
+    "options": ["文化", "文筆", "文書", "文明"],
+    "answer": 0,
+    "explanation": "文化指具歷史承續並有相當程度廣泛傳播的社會成果。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "（  ）不懈是邁向成功的不二法門。",
+    "options": ["用力", "力氣", "努力", "效力"],
+    "answer": 2,
+    "explanation": "努力指盡力去做，是邁向成功的關鍵。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「自然（  ）是不容許人為破壞的。」括號中應填入？",
+    "options": ["景觀", "景美", "景仰", "景象"],
+    "answer": 0,
+    "explanation": "景觀指自然界的景色。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "他因為參與革命而流芳百世，受人（  ）。",
+    "options": ["景觀", "景美", "景仰", "仰仗"],
+    "answer": 2,
+    "explanation": "景仰指敬慕、仰慕。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "我家有一部老舊的（  ）機。",
+    "options": ["織布", "布幕", "織女", "編織"],
+    "answer": 0,
+    "explanation": "織布機是將紗線織成布的機器。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "阿姨到臺中旅遊，（  ）來拜訪我們。",
+    "options": ["順利", "順暢", "順道", "順從"],
+    "answer": 2,
+    "explanation": "順道指順路。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "鹿港的這棟建築（  ），讓人有走入時光隧道的感覺。",
+    "options": ["古道熱腸", "人來人往", "古色古香", "淋漓盡致"],
+    "answer": 2,
+    "explanation": "古色古香形容年代久遠，具有古雅色彩的書畫、器物或建築。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "岳飛的精神（  ）我們效法。",
+    "options": ["價值", "值得", "難得", "得當"],
+    "answer": 1,
+    "explanation": "值得指有價值、有意義。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "她亮麗的打扮（  ）了在場所有人的目光。",
+    "options": ["吸引", "吸收", "引導", "引誘"],
+    "answer": 0,
+    "explanation": "吸引指引人注意。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "這個木雕非常具有（  ）。",
+    "options": ["特別", "特色", "特殊", "特點"],
+    "answer": 1,
+    "explanation": "特色指事物所表現出獨特優異的地方。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "這次的野柳之旅，我玩得很（  ）。",
+    "options": ["盡頭", "盡力", "盡興", "盡心"],
+    "answer": 2,
+    "explanation": "盡興指興趣得到充分滿足。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "讓我們一起（  ）桌上的美食吧！",
+    "options": ["分享", "平分", "分配", "分擔"],
+    "answer": 0,
+    "explanation": "分享指共同享受。"
+  },
+  {
+    "id": 1,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "不管是哪個國家的美食，這間餐廳都（  ）。",
+    "options": ["筋疲力盡", "應有盡有", "淋漓盡致", "一應俱全"],
+    "answer": 1,
+    "explanation": "應有盡有形容物資極為豐富。"
+  },
+  {
+    "id": 2,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "弟弟年紀小，理所（  ）要讓他一點。",
+    "options": ["當年", "當然", "當下", "當時"],
+    "answer": 1,
+    "explanation": "理所當然指在道理上應該如此。"
+  },
+  {
+    "id": 3,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "我非常（  ）哥哥的文筆。",
+    "options": ["欣賞", "觀賞", "欣悅", "欣慰"],
+    "answer": 0,
+    "explanation": "欣賞指喜愛並評價其好處。"
+  },
+  {
+    "id": 4,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "這只手錶製作得非常（  ）。",
+    "options": ["精神", "巧思", "精巧", "精彩"],
+    "answer": 2,
+    "explanation": "精巧指精細巧妙。"
+  },
+  {
+    "id": 5,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "陽明山的風景（  ），令人流連忘返。",
+    "options": ["華麗", "秀麗", "俏麗", "壯麗"],
+    "answer": 1,
+    "explanation": "秀麗指清秀美麗。"
+  },
+  {
+    "id": 6,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "這裡的景色（  ），是臺灣最佳的登山步道之一。",
+    "options": ["幽會", "幽靜", "幽美", "幽雅"],
+    "answer": 2,
+    "explanation": "幽美指幽邃靜謐引人深思的美感。"
+  },
+  {
+    "id": 7,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "這裡遠離了都市的喧囂，因此十分（  ）。",
+    "options": ["幽會", "幽靜", "幽美", "幽深"],
+    "answer": 1,
+    "explanation": "幽靜指幽雅清靜。"
+  },
+  {
+    "id": 8,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "媽媽要我（  ）改掉我的壞習慣。",
+    "options": ["徹底", "清澈", "透澈", "通透"],
+    "answer": 0,
+    "explanation": "徹底指完全、貫通到底。"
+  },
+  {
+    "id": 9,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "這座森林裡，有一條（  ）見底的小溪。",
+    "options": ["徹底", "清澈", "透澈", "透明"],
+    "answer": 1,
+    "explanation": "清澈指水澄淨透明。"
+  },
+  {
+    "id": 10,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "（  ）的民眾，正在崩塌的建築底下大聲呼救。",
+    "options": ["忍受", "困難", "受困", "困苦"],
+    "answer": 2,
+    "explanation": "受困指陷入艱難痛苦的境地或被圍困。"
+  },
+  {
+    "id": 1,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "我非常（  ）他的幫助，讓我能順利完成任務。",
+    "options": ["感激", "感動", "感恩", "感化"],
+    "answer": 0,
+    "explanation": "感激指真心感謝。"
+  },
+  {
+    "id": 2,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "他做研究努力不懈的精神，讓大家（  ）。",
+    "options": ["感激", "感動", "感恩", "感慨"],
+    "answer": 1,
+    "explanation": "感動指打動、觸動人心。"
+  },
+  {
+    "id": 3,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "別人給予我們的恩惠，我們要心存（  ）。",
+    "options": ["感激", "感動", "感恩", "感傷"],
+    "answer": 2,
+    "explanation": "感恩指感激恩惠。"
+  },
+  {
+    "id": 4,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "這件事不是你的錯，你就不要再（  ）了。",
+    "options": ["自責", "自負", "自律", "自滿"],
+    "answer": 0,
+    "explanation": "自責指自我譴責、責備。"
+  },
+  {
+    "id": 5,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "他這人太（  ），別人說不得。",
+    "options": ["自責", "自負", "自律", "自大"],
+    "answer": 1,
+    "explanation": "自負指自以為是、自命不凡。"
+  },
+  {
+    "id": 6,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "他（  ）甚嚴，從不做損人利己或違法犯紀的事。",
+    "options": ["自責", "自負", "自律", "自強"],
+    "answer": 2,
+    "explanation": "自律指自我約束行為。"
+  },
+  {
+    "id": 7,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "黃昏時，美麗的夕陽（  ）了整個天空。",
+    "options": ["感染", "染色", "染紅", "污染"],
+    "answer": 2,
+    "explanation": "染紅指使物體變成紅色。"
+  },
+  {
+    "id": 8,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "你要避免傷口和手指接觸，以免細菌（  ）。",
+    "options": ["感染", "染色", "染紅", "傳染"],
+    "answer": 0,
+    "explanation": "感染指受到病原體的侵襲。"
+  },
+  {
+    "id": 9,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "這些模特兒都受過專業的（  ），所以臺風很穩。",
+    "options": ["歷練", "訓練", "老練", "練習"],
+    "answer": 1,
+    "explanation": "訓練指有計畫地教導與練習。"
+  },
+  {
+    "id": 10,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "為了得到冠軍，他受了傷還（  ），把比賽跑完。",
+    "options": ["哭著臉", "忍著痛", "想著家", "忍著笑"],
+    "answer": 1,
+    "explanation": "忍著痛形容意志堅強克服生理痛苦。"
+  },
+  {
+    "id": 1,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "這隻小兔子好可愛，我（  ）把牠抱在懷裡。",
+    "options": ["不忍心", "受不了", "忍不住", "不小心"],
+    "answer": 2,
+    "explanation": "忍不住指控制不住自己的感情或行為。"
+  },
+  {
+    "id": 2,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "中央山脈層巒疊翠，（  ）的景色叫人一見難忘。",
+    "options": ["強壯", "壯大", "壯麗", "壯觀"],
+    "answer": 2,
+    "explanation": "壯麗指雄偉華麗。"
+  },
+  {
+    "id": 3,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「姑息養奸」是指好人過於放縱壞人，所以才會（  ）壞人的聲勢。",
+    "options": ["強壯", "壯大", "壯麗", "壯闊"],
+    "answer": 1,
+    "explanation": "壯大指使勢力或規模變大。"
+  },
+  {
+    "id": 4,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "你知道他能成功的（  ）嗎？",
+    "options": ["祕訣", "神祕", "決心", "祕密"],
+    "answer": 0,
+    "explanation": "祕訣指不公開的巧妙方法。"
+  },
+  {
+    "id": 5,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "他已經下定（  ），再也不會更改了。",
+    "options": ["祕訣", "決心", "印證", "決議"],
+    "answer": 1,
+    "explanation": "下定決心指堅定意志要做某事。"
+  },
+  {
+    "id": 6,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "李教授是一位（  ）的科學家。",
+    "options": ["傑出", "指導", "導演", "傑作"],
+    "answer": 0,
+    "explanation": "傑出指才能出眾。"
+  },
+  {
+    "id": 7,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "我（  ）就在山區迷路了。",
+    "options": ["差很多", "差不多", "差一點", "差一截"],
+    "answer": 2,
+    "explanation": "差一點指幾乎、險些。"
+  },
+  {
+    "id": 8,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "經常（  ）優良書刊，可以增長知識。",
+    "options": ["模仿", "閱讀", "教導", "閱覽"],
+    "answer": 1,
+    "explanation": "閱讀指看書報並領會其內容。"
+  },
+  {
+    "id": 9,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "他十五歲開始到麵包店打工，學習做麵包的（  ）。",
+    "options": ["財富", "發明", "技術", "技巧"],
+    "answer": 2,
+    "explanation": "技術指在勞動生產中積累的經驗和知識。"
+  },
+  {
+    "id": 10,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "鄭老師是一位值得（  ）的老師。",
+    "options": ["禮貌", "敬禮", "尊敬", "尊崇"],
+    "answer": 2,
+    "explanation": "尊敬指尊崇敬重。"
+  },
+  {
+    "id": 1,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "他向我（  ）這一次的計畫。",
+    "options": ["透露", "透明", "露臉", "暴露"],
+    "answer": 0,
+    "explanation": "透露指洩漏消息或意思。"
+  },
+  {
+    "id": 2,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「（  ）豐富之才」是指見識眾多，閱歷廣博的人。",
+    "options": ["歷練", "老練", "訓練", "經歷"],
+    "answer": 0,
+    "explanation": "歷練之才指經驗豐富的人才。"
+  },
+  {
+    "id": 3,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語的相反詞是「生疏」？",
+    "options": ["歷練", "老練", "訓練", "熟練"],
+    "answer": 1,
+    "explanation": "老練指經驗老到，做事純熟，相反詞為生疏。"
+  },
+  {
+    "id": 4,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「（  ）文化」是指具歷史承續並廣泛傳播的文化。",
+    "options": ["傳統", "傳說", "傳承", "傳奇"],
+    "answer": 0,
+    "explanation": "傳統文化具歷史承續性。"
+  },
+  {
+    "id": 5,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「偽造（  ）」是指非法製作假的公文或契約文件。",
+    "options": ["文化", "文筆", "文書", "文字"],
+    "answer": 2,
+    "explanation": "文書統稱公文、契約等文件。"
+  },
+  {
+    "id": 6,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "父母親對他的（  ）過高，帶給他相當大的壓力。",
+    "options": ["期待", "期許", "期盼", "期中"],
+    "answer": 1,
+    "explanation": "期許指希望、期望。"
+  },
+  {
+    "id": 7,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語的相反詞是「樸素」？",
+    "options": ["華麗", "秀麗", "俏麗", "壯麗"],
+    "answer": 0,
+    "explanation": "華麗指華美豔麗，相反詞為樸素。"
+  },
+  {
+    "id": 8,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「（  ）見底」是用來形容水質非常清澈。",
+    "options": ["徹底", "清澈", "透澈", "清晰"],
+    "answer": 1,
+    "explanation": "清澈見底形容水質澄淨。"
+  },
+  {
+    "id": 9,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「化腐朽為（  ）」是指將廢物變成奇妙有用的東西。",
+    "options": ["神奇", "奇特", "奇異", "奇觀"],
+    "answer": 0,
+    "explanation": "神奇指神妙奇特，不可思議。"
+  },
+  {
+    "id": 10,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「（  ）橫生」形容非常有意思趣味。",
+    "options": ["意旨", "意見", "意趣", "意圖"],
+    "answer": 2,
+    "explanation": "意趣橫生指意思趣味十足。"
+  },
+  {
+    "id": 1,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語是指「沒有矛盾、障礙的境界」？",
+    "options": ["融合", "圓融", "融洽", "融資"],
+    "answer": 1,
+    "explanation": "圓融指沒有矛盾、障礙的境界。"
+  },
+  {
+    "id": 2,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）不安」常用來形容局勢搖晃不穩。",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 0,
+    "explanation": "動盪不安形容局勢不穩定。"
+  },
+  {
+    "id": 3,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）溝通」是指將彼此的想法進行交流。",
+    "options": ["意旨", "意見", "意趣", "意向"],
+    "answer": 1,
+    "explanation": "意見溝通指交流看法。"
+  },
+  {
+    "id": 4,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語是指「即刻、立刻」？",
+    "options": ["當下", "當時", "當年", "當初"],
+    "answer": 0,
+    "explanation": "當下意為即刻、立刻。"
+  },
+  {
+    "id": 5,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）不移」形容意志非常堅定，絕不改變。",
+    "options": ["堅定", "堅強", "堅持", "堅韌"],
+    "answer": 0,
+    "explanation": "堅定不移形容強毅不動搖。"
+  },
+  {
+    "id": 6,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）」指感激他人給予的好處。",
+    "options": ["感激", "感動", "感恩", "感佩"],
+    "answer": 2,
+    "explanation": "感恩指感激恩惠。"
+  },
+  {
+    "id": 7,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "下列詞語何者形容「容貌美好體態輕盈」？",
+    "options": ["秀麗", "俏麗", "壯麗", "華麗"],
+    "answer": 1,
+    "explanation": "俏麗形容容貌美好體態輕盈。"
+  },
+  {
+    "id": 8,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）圖報」是指想要報答他人的恩情。",
+    "options": ["感激", "感動", "感恩", "感懷"],
+    "answer": 2,
+    "explanation": "感恩圖報指感激恩惠並設法報答。"
+  },
+  {
+    "id": 9,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）不務正業」是指一個人在外面亂晃，不去做該做的事。",
+    "options": ["動盪", "遊蕩", "蕩漾", "放蕩"],
+    "answer": 1,
+    "explanation": "遊蕩指閒遊不務正業。"
+  },
+  {
+    "id": 10,
+    "unit": 9,
+    "category": "vocabulary",
+    "question": "「（  ）反應」是指人體對某些物質產生的過度防禦反應。",
+    "options": ["反射", "反映", "過敏性", "感應"],
+    "answer": 2,
+    "explanation": "過敏性反應是由刺激引起的活動。"
+  },
+  {
+    "id": 1,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「雕琢」一詞的意思為何？",
+    "options": ["雕像", "推敲", "斟酌", "刻鏤、雕刻"],
+    "answer": 3,
+    "explanation": "雕琢指刻鏤、雕刻，也可用於形容文字的修飾。"
+  },
+  {
+    "id": 2,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「懊惱」一詞的意思為何？",
+    "options": ["心中鬱恨、悔恨", "心煩氣躁", "樂不可支", "用心經營"],
+    "answer": 0,
+    "explanation": "懊惱是指心中感到鬱悶、悔恨。"
+  },
+  {
+    "id": 3,
+    "unit": 10,
+    "category": "proverb",
+    "question": "關於「明哲保身」的釋義，下列何者正確？",
+    "options": [
+      "明達事理、洞見時勢的人，不參與會帶給自己危險的事",
+      "賢能明智的人",
+      "賢明的臣子",
+      "有關宇宙人生的大道理"
+    ],
+    "answer": 0,
+    "explanation": "明哲保身指明理的人能識時務，不參與險境以保護自身。"
+  },
+  {
+    "id": 4,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「耐人尋味」是用來形容什麼？",
+    "options": [
+      "滋味豐富，值得細細品嘗",
+      "味道很淡，要耐心的細細分辨",
+      "意味深遠雋永，值得人反覆尋思",
+      "香味十分誘人，吸引人去找尋氣味源頭"
+    ],
+    "answer": 2,
+    "explanation": "耐人尋味形容事物意味深長，值得反覆思考體會。"
+  },
+  {
+    "id": 5,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「小時了了，大未必佳」這句話的意思是？",
+    "options": [
+      "小時候聰明，長大後更不得了",
+      "年紀雖小，懂得的事卻很多",
+      "幼年時聰敏捷，表現優良，長大之後未必能有所成就",
+      "比喻用小人狹隘的心理去猜想君子"
+    ],
+    "answer": 2,
+    "explanation": "指幼年聰明，但長大後若不努力，未必能有大成就。"
+  },
+  {
+    "id": 6,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「滑稽」一詞在文學釋義中是指？",
+    "options": ["摔一跤", "詼諧有趣的言語、動作", "無事實根據的言論", "粗心大意"],
+    "answer": 1,
+    "explanation": "滑稽形容言語、動作詼諧有趣，引人發笑。"
+  },
+  {
+    "id": 7,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「紆尊降貴」是用來形容一個人的態度如何？",
+    "options": [
+      "屈降尊貴的地位，謙卑自處，謙遜待人",
+      "高高在上，不可一世",
+      "穿著華麗高貴",
+      "有身分、有地位的人"
+    ],
+    "answer": 0,
+    "explanation": "紆尊降貴指地位高的人主動放下身段，謙遜待人。"
+  },
+  {
+    "id": 8,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "「精湛」一詞通常用來形容？",
+    "options": ["非常擅長於某事", "專長於某一種才藝", "精良深厚", "玩遊戲的技巧"],
+    "answer": 2,
+    "explanation": "精湛指技術或學問精良深厚。"
+  },
+  {
+    "id": 9,
+    "unit": 10,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語是指「高昂愉悅的情致」？",
+    "options": ["興致", "氣質", "舉止", "景致"],
+    "answer": 0,
+    "explanation": "興致是指高昂愉悅的情致。"
+  },
+  {
+    "id": 10,
+    "unit": 10,
+    "category": "proverb",
+    "question": "「感恩圖報」的意思是？",
+    "options": [
+      "報社的名稱",
+      "感激他人的恩德而設法報答",
+      "維護人情與義理",
+      "發憤圖強，力求有所作為"
+    ],
+    "answer": 1,
+    "explanation": "感恩圖報指感激恩惠並設法報答。"
+  },
+  {
+    "id": 1,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「刻舟求劍」是用來比喻什麼樣的人？",
+    "options": [
+      "態度自然大方，不受拘束",
+      "才藝超群，氣質出眾",
+      "用非常的手段來完成某事",
+      "固執於個人的想法而不知變通"
+    ],
+    "answer": 3,
+    "explanation": "刻舟求劍比喻拘泥成法，不知變通。"
+  },
+  {
+    "id": 2,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「飲水思源」的正確釋義為何？",
+    "options": [
+      "比喻不念舊情",
+      "比喻人不忘本",
+      "看見有利可圖就不顧道義",
+      "看重義理，輕視財物"
+    ],
+    "answer": 1,
+    "explanation": "飲水思源比喻不忘本，感念恩源。"
+  },
+  {
+    "id": 3,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「傾國傾城」是用來形容什麼？",
+    "options": ["指亡國", "氣勢浩大、威力強盛", "人舉止優雅", "女子極為美麗動人"],
+    "answer": 3,
+    "explanation": "傾國傾城常用來形容女子容貌絕美。"
+  },
+  {
+    "id": 4,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「白頭偕老」通常用於祝福哪種對象？",
+    "options": ["形容夫妻恩愛到老", "比喻年老時的哀傷", "形容朋友相交甚久", "和人民一同享樂"],
+    "answer": 0,
+    "explanation": "白頭偕老指夫妻共同生活到老，恩愛不渝。"
+  },
+  {
+    "id": 5,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「有過之，無不及」這句話的意思是？",
+    "options": [
+      "只有犯錯，沒有好的",
+      "生活困苦、不易度過",
+      "指相較之下，只有超過而沒有不如",
+      "犯過的錯誤，不再重犯"
+    ],
+    "answer": 2,
+    "explanation": "表示兩者比較，前者比後者更甚。"
+  },
+  {
+    "id": 6,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「赤色」是指哪一種顏色？",
+    "options": ["青色", "橘色", "紅色", "紫色"],
+    "answer": 2,
+    "explanation": "赤即紅色。"
+  },
+  {
+    "id": 7,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「赤誠」的心是指？",
+    "options": ["心意極誠懇", "血淋淋", "紅色的", "不夠誠懇"],
+    "answer": 0,
+    "explanation": "赤誠形容極其真誠、誠懇。"
+  },
+  {
+    "id": 8,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「難登大雅之堂」是指？",
+    "options": [
+      "文藝作品粗俗低劣，不能獲得高雅文士欣賞",
+      "比喻君子有仁心",
+      "比喻沒事不登門造訪",
+      "形容人衝動"
+    ],
+    "answer": 0,
+    "explanation": "形容事物不夠體面或層次較低，無法在正式高雅場合呈現。"
+  },
+  {
+    "id": 9,
+    "unit": 11,
+    "category": "proverb",
+    "question": "「不假思索」的意思是？",
+    "options": ["形容思想敏捷", "不費思考", "求討、要求", "形容人自不量力"],
+    "answer": 1,
+    "explanation": "指做事或說話敏捷，不需要花時間思考。"
+  },
+  {
+    "id": 10,
+    "unit": 11,
+    "category": "vocabulary",
+    "question": "「詼諧」一詞的近義詞為何？",
+    "options": ["正派", "嚴肅", "協調", "幽默"],
+    "answer": 3,
+    "explanation": "詼諧指談話風趣、幽默。"
+  },
+  {
+    "id": 1,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「見賢思齊」的正確釋義為何？",
+    "options": ["看到賢能的人，便想效法他", "勉人要培養觀察力", "形容想法不切實際", "譏笑他人自不量力"],
+    "answer": 0,
+    "explanation": "見賢思齊指看到德才兼備的人，就想向他看齊。"
+  },
+  {
+    "id": 2,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「蔑視」一詞的意思是？",
+    "options": ["視力不好", "輕視、看不起", "仔細地看了又看", "不明所以"],
+    "answer": 1,
+    "explanation": "蔑視指輕視、瞧不起。"
+  },
+  {
+    "id": 3,
+    "unit": 12,
+    "category": "vocabulary",
+    "question": "「著重語文訓練」中的「著」字，其注音與下列何者相同？",
+    "options": ["琢", "著 (ㄓㄨㄛˊ)", "注", "著 (ㄓㄨˋ)"],
+    "answer": 1,
+    "explanation": "「著重」的「著」讀音為ㄓㄨㄛˊ。"
+  },
+  {
+    "id": 4,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「無動於衷」是用來形容？",
+    "options": ["人懶惰不想活動", "人去世", "文思枯竭", "對應該關心的事情置之不理"],
+    "answer": 3,
+    "explanation": "指心裡一點也不受感動，毫不關心。"
+  },
+  {
+    "id": 5,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「淡泊名利」的意思是？",
+    "options": [
+      "人沒有能力追求名利",
+      "對名利不屑一顧，不怎麼在意",
+      "對名利看得很重要",
+      "名利如浮雲捉不到"
+    ],
+    "answer": 1,
+    "explanation": "指不追求名聲與財利，生活簡單。"
+  },
+  {
+    "id": 6,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「趨炎附勢」是指什麼樣的行為？",
+    "options": ["緊跟著別人後面走", "情況愈來愈差", "奉承依附有權勢的人", "依恃權勢欺凌他人"],
+    "answer": 2,
+    "explanation": "趨炎附勢指奉承依附權貴。"
+  },
+  {
+    "id": 7,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「短視近利」是指？",
+    "options": ["真知灼見", "高高在上", "近視眼", "眼光短淺，只重眼前利益"],
+    "answer": 3,
+    "explanation": "形容眼光短淺，只貪圖眼前的利益。"
+  },
+  {
+    "id": 8,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「言不由衷」是用來形容？",
+    "options": [
+      "說的話不是出於真心",
+      "所說的話全都出自肺腑",
+      "隨口說說，毫不放在心上",
+      "捏造罪狀加以陷害"
+    ],
+    "answer": 0,
+    "explanation": "言不由衷指說話心口不一，缺乏誠意。"
+  },
+  {
+    "id": 9,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「一技之長」的意思是？",
+    "options": ["長得比別人高", "具有某一種技能或專長", "年紀比別人稍大", "毫無專長可言"],
+    "answer": 1,
+    "explanation": "指擁有一種專門的技術或特長。"
+  },
+  {
+    "id": 10,
+    "unit": 12,
+    "category": "proverb",
+    "question": "「杞人憂天」是用來比喻？",
+    "options": ["懷恨上天", "感激恩德", "順應天意", "無謂的憂慮"],
+    "answer": 3,
+    "explanation": "杞人憂天比喻缺乏根據且不必要的憂慮。"
+  },
+  {
+    "id": 1,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「吐哺握髮」是用來比喻？",
+    "options": ["求賢殷切", "暈車嘔吐", "子女盡孝", "做事不專心"],
+    "answer": 0,
+    "explanation": "形容求才心切，不暇進食梳頭。"
+  },
+  {
+    "id": 2,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「人不輕狂枉少年」這句話的本意是在？",
+    "options": ["形容人輕浮", "勉勵年輕人把握當下實踐夢想", "指少年人心高氣傲", "勸人不要意氣用事"],
+    "answer": 1,
+    "explanation": "意指年輕時應當勇於嘗試，不留遺憾。"
+  },
+  {
+    "id": 3,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「尾生抱柱」這個典故比喻什麼？",
+    "options": ["深深的盼望", "堅守信約", "想法不切實際", "自不量力"],
+    "answer": 1,
+    "explanation": "尾生抱柱比喻堅守誓約，至死不渝。"
+  },
+  {
+    "id": 4,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「拈花惹草」通常比喻？",
+    "options": ["用心栽植農作物", "喜新厭舊", "挑逗勾引異性，到處留情", "為人細心"],
+    "answer": 2,
+    "explanation": "拈花惹草比喻男子到處挑逗女性或在男女關係上不嚴肅。"
+  },
+  {
+    "id": 5,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「懸崖勒馬」比喻什麼？",
+    "options": ["警悟險境，及時回頭", "處境危險", "很有想像力", "自不量力"],
+    "answer": 0,
+    "explanation": "懸崖勒馬比喻到了危險邊緣及時醒悟回頭。"
+  },
+  {
+    "id": 6,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「絕不罷休」中的「罷休」意思是？",
+    "options": ["失望、忿恨", "辭退官職", "解除婚約", "停止、休止"],
+    "answer": 3,
+    "explanation": "罷休指停止、了結。"
+  },
+  {
+    "id": 7,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「落湯雞」是用來比喻？",
+    "options": ["一道菜名", "人渾身溼透", "失勢的壞人", "自身難保"],
+    "answer": 1,
+    "explanation": "落湯雞形容人全身溼透的狼狽樣子。"
+  },
+  {
+    "id": 8,
+    "unit": 13,
+    "category": "vocabulary",
+    "question": "「傷腦筋」是指？",
+    "options": ["事情不易解決，費心思", "頭腦昏庸", "頭痛欲裂", "智力受損"],
+    "answer": 0,
+    "explanation": "傷腦筋指事情棘手難辦，讓人費神。"
+  },
+  {
+    "id": 9,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「攀龍附鳳」的意思是？",
+    "options": ["趨附權貴，以求晉升", "和自己扯上關係", "路程遙遠辛苦", "科舉及第"],
+    "answer": 0,
+    "explanation": "比喻依附權貴以求得晉升或利益。"
+  },
+  {
+    "id": 10,
+    "unit": 13,
+    "category": "proverb",
+    "question": "「以管窺天」是用來比喻？",
+    "options": ["治學刻苦", "端正守禮", "驚懼不知所措", "見識片面而狹窄"],
+    "answer": 3,
+    "explanation": "以管窺天比喻見識狹隘，所見有限。"
+  }
+]
